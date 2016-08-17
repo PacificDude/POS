@@ -126,7 +126,7 @@ insert into Product values ("P000000016","Sausage","sold by pound", "CA005", 4.5
 
 select * from product
 
-/********************** PROCEDURES *********************************/
+/********************** STORE PROCEDURES *********************************/
 delimiter $$
 create procedure spViewUsers ()
 begin
